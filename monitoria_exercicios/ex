@@ -1,0 +1,1 @@
+Desenvolva uma função chamada conta_digitos que receba um número inteiro como parâmetro e retorne a quantidade de dígitos no número. No programa principal, solicite um número ao usuário e exiba o resultado.
